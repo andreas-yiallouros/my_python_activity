@@ -4,7 +4,7 @@
 # In[1]:
 
 
-# This is my first line of code
+# This is my first line of code!
 print("My name is Andreas")
 print("Today is Thursday, 15 September 2022 - it's a great day!")
 
